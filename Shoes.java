@@ -1,4 +1,4 @@
-//Derek Dao, 501 111 838
+//Derek Dao
 import java.util.Scanner;
 
 /*
