@@ -1,4 +1,4 @@
-//Derek Dao, 501 111 838
+//Derek Dao
 /* A book IS A product that has additional information - e.g. title, author
 
  	 A book also comes in different formats ("Paperback", "Hardcover", "EBook")
