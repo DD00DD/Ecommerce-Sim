@@ -1,4 +1,4 @@
-// Derek Dao, 501 111 838
+// Derek Dao
 /*
  * class Product defines a product for sale by the system. 
  * 
