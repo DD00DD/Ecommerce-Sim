@@ -1,4 +1,4 @@
-//Derek Dao, 501 111 838
+//Derek Dao
 
 /*
  * A cart item is a product that is placed inside a user's cart.
