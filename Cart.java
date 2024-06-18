@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.ListIterator;
 
-//Derek Dao, 501 111 838
+//Derek Dao
 
 /*
  * A cart is a personal storage that carries the items the user intends to purchase
