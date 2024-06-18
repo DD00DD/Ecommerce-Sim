@@ -1,4 +1,4 @@
-// Derek Dao, 501 111 838
+// Derek Dao
 /*
  * class ProductOrder defines an order of a specific product by a customer
  * 
